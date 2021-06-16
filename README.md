@@ -1,4 +1,8 @@
-# fractalserver
+# Different Go Exercises
+**Servers, Clients**
+**SVG XML Generators**
 **A MandelBrot Fractal Renderer**
 
-Made using Golang, you can generate different mandelbrot sets.
+etc..
+
+Made using Golang.
